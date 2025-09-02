@@ -1,6 +1,6 @@
 # Web hosting on cs.purdue.edu
 
-First see this [help page](./Help pages.md): [Creating personal homepage][hp].
+First see this [help page](./Help%20pages.md): [Creating personal homepage][hp].
 
 [hp]: https://www.cs.purdue.edu/resources/facilities/help/Creating-personal-homepage.html
 
@@ -9,7 +9,7 @@ page."
 
 ## WWW server
 
-While your [home directory](./Home symlink.md) is on an NFS drive and is mounted
+While your [home directory](./Home%20symlink.md) is on an NFS drive and is mounted
 on all of the CS servers, only one of them hosts the web server. At the time of
 writing, this is `pythia.cs.purdue.edu`:
 ```
