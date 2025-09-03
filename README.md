@@ -10,6 +10,7 @@ for my own future reference, but also for others who might stumble across it.
 - [CS help pages](./notes/Help%20pages.md)
 - [Home directory/symlink](./notes/Home%20symlink.md)
 - [Web hosting on cs.purdue.edu](./notes/WWW.md)
+- [Tailscale](./notes/Tailscale.md)
 - [Cleanroom (temporary empty home filesystem)](./notes/Cleanroom.md)
 
 ## Copyright & license
