@@ -7,10 +7,10 @@ for my own future reference, but also for others who might stumble across it.
 
 ## Table of contents
 
-- [CS help pages](./Help%20pages.md)
-- [Home directory/symlink](./Home%20symlink.md)
-- [Web hosting on cs.purdue.edu](./WWW.md)
-- [Cleanroom (temporary empty home filesystem)](./Cleanroom.md)
+- [CS help pages](./notes/Help%20pages.md)
+- [Home directory/symlink](./notes/Home%20symlink.md)
+- [Web hosting on cs.purdue.edu](./notes/WWW.md)
+- [Cleanroom (temporary empty home filesystem)](./notes/Cleanroom.md)
 
 ## Copyright & license
 
