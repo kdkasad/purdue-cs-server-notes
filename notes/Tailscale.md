@@ -120,3 +120,4 @@ Now that `tailscaled` is running and `tailscale` can control it, all that's left
 to do is connect the daemon to your Tailscale account. Do this by running
 `tailscale up` as you normally would. I won't provide specific options to use,
 as that can depend on your Tailscale configuration and desired use cases.
+For example, you may or may not want to `--advertise-exit-node`.
