@@ -118,6 +118,10 @@ failed to connect to local tailscaled (which appears to be running as tailscaled
 
 Now that `tailscaled` is running and `tailscale` can control it, all that's left
 to do is connect the daemon to your Tailscale account. Do this by running
-`tailscale up` as you normally would. I won't provide specific options to use,
-as that can depend on your Tailscale configuration and desired use cases.
-For example, you may or may not want to `--advertise-exit-node`.
+`tailscale up` as you normally would.
+
+> [!NOTE]
+> The specific options you should give to `tailscale up` depend on your use case. I use the following:
+> ```sh
+> tailscale up --advertise-routes 10.0.0.0/8,128.10.0.0/16,172.30.126.0/24 --advertise-exit-node --advertise-tags tag:server,tag:purdue-cs
+> ```
