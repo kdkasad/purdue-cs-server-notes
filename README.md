@@ -1,5 +1,9 @@
 # Purdue CS server notes
 
+> [!WARNING]
+> This repository is archived. All notes have been moved to <https://kasad.com/notes/>,
+> and any future notes will be published there.
+
 Notes about the Purdue CS Linux servers.
 
 These are things I've learned and/or figured out and want to write down, partly
